@@ -3,7 +3,7 @@
 [![PyPI Release](https://img.shields.io/pypi/v/tldr.svg)](https://pypi.python.org/pypi/tldr)
 [![Build](https://github.com/tldr-pages/tldr-python-client/workflows/Test/badge.svg?branch=main)](https://github.com/tldr-pages/tldr-python-client/actions?query=branch%3Amain)
 
-Python command-line client for [tldr pages](https://github.com/tldr-pages/tldr).
+Python command-line client for [tldr pages](https://github.com/tldr-pages/tldr)
 
 ![tldr pages example](https://raw.github.com/tldr-pages/tldr/main/images/tldr.svg)
 
